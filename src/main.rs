@@ -1,5 +1,5 @@
-mod day16;
+mod day17;
 
 fn main() {
-    println!("day16: {} {}", day16::eval_version(), day16::eval_result());
+    println!("day17: {} {}", day17::part1(), day17::part2());
 }
